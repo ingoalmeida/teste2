@@ -10,3 +10,5 @@ Caracteristicas:
 - forte;
 - rapido;
 - w/e;
+- cabeludo;
+- visao top;
